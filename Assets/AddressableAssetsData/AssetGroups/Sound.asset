@@ -1,0 +1,349 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Sound
+  m_EditorClassIdentifier: 
+  m_GroupName: Sound
+  m_Data:
+    m_SerializedData: []
+  m_GUID: bcced18597d8b52499d4263918030aec
+  m_SerializeEntries:
+  - m_GUID: 886e5e1f31eb4cc43b9bd80d85c30546
+    m_Address: Title
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fcc96c547dfd3334cbb71242250ad0ee
+    m_Address: Prologue
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a2ed4af84ef68d643b89506da04108c5
+    m_Address: Chapter3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 202c6659bca44344a810171b84fb79fb
+    m_Address: God
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8c9b8f48e1ffee545a3908e6e468c517
+    m_Address: Astar
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 569afd778281a674ab07b4509df3083c
+    m_Address: Chapter4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd3ae4c6aa190d4468f344e6acefe24f
+    m_Address: Lobby
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a409d8b979e44ce4d90f783d0d7fcafe
+    m_Address: Chapter2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d66f1d5d3667c346abd0060802a8b4d
+    m_Address: Chapter1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 11fc3573b4c46b440879e16a073a2977
+    m_Address: Isobell
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 558ea1eb69f99b048930f5b2fd06a853
+    m_Address: Enchant
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 09a0e41dd0f30ae48a579ada6811c534
+    m_Address: Askout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49cc13db3c94be14aa92595ffcbfd5e5
+    m_Address: Her
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1448e3bc54d1b674a8ddedae00972674
+    m_Address: Academia
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba4bba7764b0f5842aca33975cf17573
+    m_Address: Defeat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b708d2fc1c060be44892e1e50278d814
+    m_Address: Castle_Damage
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 19c53df75749aab4098898f703877782
+    m_Address: Academy_Open
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7cca6e1efd6762941a6a1c8799fb7c49
+    m_Address: Chest_Open
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb8b925a600bbbf44b9d68ba5f13ecaf
+    m_Address: Amos_Skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 19a4dd6f6703a2a428d80d72bcfafc35
+    m_Address: EggMon_Upgrade
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bbe609a28db914b4680fde815cef8d95
+    m_Address: Button
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d89205f5b3b23144380f8f81649f3e2b
+    m_Address: Aquarine_Skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d83fbe269d601f24f9384f59de14ed7e
+    m_Address: Bird_Skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e907d60c39277c94494859d161383769
+    m_Address: Rumi_Skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f967401ba182e514bbb651cba6f3c9a2
+    m_Address: Rev_Skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b251551d18bd694eae7eee35c573f73
+    m_Address: EXP_Reroll_Touch
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78bd7a9ea6ef4924b910a97df1d934c0
+    m_Address: Attack_Knight
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 86b832cbcb6a6414899ab720e7ad251b
+    m_Address: Win
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df2c5b7686654a94099ec1a8b0e64eb6
+    m_Address: Win_Star
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aaf869579a2568f4e8a8cd9d03cc073e
+    m_Address: Archer_Attack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c471c4bdb93f02842ba237bee92ce295
+    m_Address: NoName
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 303f4a9d48a1a6448990d4cf5dd05bd2
+    m_Address: Frenzy
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: de6aace215e193d4290f85a6d51e3d25
+    m_Address: Canine
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 584971d9d8b1951429ee916dc364d3a8
+    m_Address: Slaughter
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d146f5d60f3bd5b4d9664da921ad941b
+    m_Address: Attack_Magician
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a1afc3b746a2e8488a5f15857f68b83
+    m_Address: LightBall
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aaee125e65d06ed44a51d6f11ae58ac7
+    m_Address: Get_Item
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3777966b432874b4fabf74ce8c560228
+    m_Address: Condensation_Arrow
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee77c505d566d174eac2582ca2f0563e
+    m_Address: NotEnough_Money
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 568cb6ab5382f274bbd38c1874932d29
+    m_Address: SwordAttack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aba83667aaea5514196efd50df97c4b0
+    m_Address: HomeRun
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cfce0cea076109f478783201b2a9f57f
+    m_Address: Judgement
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 39a93e1f0be7a574aa35e0c06bd99230
+    m_Address: IceFlower
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c64c13ecbed6cfd4683dc16d93dbbfa0
+    m_Address: TurnOffLight
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a439c296bb6ad1459b6d31c9f95a9d9
+    m_Address: Overdose
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 887c377b380e13741b0356d8f4e14422
+    m_Address: Lightning
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac328b524102240469703a6c210a69aa
+    m_Address: Execute
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc1ea6321fabcf54c82d4e5305729a39
+    m_Address: Upgrade_Character
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 04afb7e9339d08941af71e2bf96eace3
+    m_Address: Seed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f1253f94323e234fbabfb118d8c678b
+    m_Address: Gold_Explosion
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ebebaf87a1781054ba9833334bd88b7e
+    m_Address: Get_Best
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 46f8dc4a4f6f1ea4f866110bc92abb9b
+    m_Address: Box_Button
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 17392825a0b26f64f8dfd2c2520cb54e
+    m_Address: LikeU
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d91cce9874c594445b837fd5f55d1e8e
+    m_Address: Chapter1000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 807a1aab8c1a69e479fb445aaa41535a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 63a3c3015fece9b4ca2a8f5105dd73ec, type: 2}
+    - {fileID: 11400000, guid: 192462f33a5db55439f26642e2aa3470, type: 2}

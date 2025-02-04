@@ -1,0 +1,3789 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b316079e10a358b46830f00bc7672389, type: 3}
+  m_Name: DB_LocalizeDataGroup
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: dataDic
+      Entry: 7
+      Data: 0|System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[LocalizeData,
+        Assembly-CSharp]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 1|System.Collections.Generic.GenericEqualityComparer`1[[System.String,
+        mscorlib]], mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 117
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Test
+    - Name: $v
+      Entry: 7
+      Data: 2|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Test
+    - Name: ko
+      Entry: 1
+      Data: "\uD14C\uC2A4\uD2B8"
+    - Name: en
+      Entry: 1
+      Data: test
+    - Name: ja
+      Entry: 1
+      Data: "\u30C6\u30B9\u30C8"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_0
+    - Name: $v
+      Entry: 7
+      Data: 3|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_0
+    - Name: ko
+      Entry: 1
+      Data: "\uCD88\uCD88\uC774"
+    - Name: en
+      Entry: 1
+      Data: Chome
+    - Name: ja
+      Entry: 1
+      Data: "\u30C1\u30E7\u30F3\u30C1\u30E7\u30EB"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Character_0
+    - Name: $v
+      Entry: 7
+      Data: 4|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Character_0
+    - Name: ko
+      Entry: 1
+      Data: "\uC5D8\uD53C"
+    - Name: en
+      Entry: 1
+      Data: L.P.
+    - Name: ja
+      Entry: 1
+      Data: "\u30A8\u30EB\u30D4\u30FC"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Character_1
+    - Name: $v
+      Entry: 7
+      Data: 5|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Character_1
+    - Name: ko
+      Entry: 1
+      Data: "\uC5D8\uD53C"
+    - Name: en
+      Entry: 1
+      Data: L.P.
+    - Name: ja
+      Entry: 1
+      Data: "\u30A8\u30EB\u30D4\u30FC"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Character_2
+    - Name: $v
+      Entry: 7
+      Data: 6|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Character_2
+    - Name: ko
+      Entry: 1
+      Data: "\uC5D8\uD53C"
+    - Name: en
+      Entry: 1
+      Data: L.P.
+    - Name: ja
+      Entry: 1
+      Data: "\u30A8\u30EB\u30D4\u30FC"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Character_3
+    - Name: $v
+      Entry: 7
+      Data: 7|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Character_3
+    - Name: ko
+      Entry: 1
+      Data: "\uD558\uB9AC"
+    - Name: en
+      Entry: 1
+      Data: Hari
+    - Name: ja
+      Entry: 1
+      Data: "\u30CF\u30EA"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Character_4
+    - Name: $v
+      Entry: 7
+      Data: 8|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Character_4
+    - Name: ko
+      Entry: 1
+      Data: "\uD558\uB9AC"
+    - Name: en
+      Entry: 1
+      Data: Hari
+    - Name: ja
+      Entry: 1
+      Data: "\u30CF\u30EA"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Character_5
+    - Name: $v
+      Entry: 7
+      Data: 9|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Character_5
+    - Name: ko
+      Entry: 1
+      Data: "\uD558\uB9AC"
+    - Name: en
+      Entry: 1
+      Data: Hari
+    - Name: ja
+      Entry: 1
+      Data: "\u30CF\u30EA"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Character_6
+    - Name: $v
+      Entry: 7
+      Data: 10|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Character_6
+    - Name: ko
+      Entry: 1
+      Data: "\uBBF8\uC5D8"
+    - Name: en
+      Entry: 1
+      Data: miel
+    - Name: ja
+      Entry: 1
+      Data: "\u30DF\u30A8\u30EB"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Character_7
+    - Name: $v
+      Entry: 7
+      Data: 11|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Character_7
+    - Name: ko
+      Entry: 1
+      Data: "\uBBF8\uC5D8"
+    - Name: en
+      Entry: 1
+      Data: miel
+    - Name: ja
+      Entry: 1
+      Data: "\u30DF\u30A8\u30EB"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Character_8
+    - Name: $v
+      Entry: 7
+      Data: 12|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Character_8
+    - Name: ko
+      Entry: 1
+      Data: "\uBBF8\uC5D8"
+    - Name: en
+      Entry: 1
+      Data: miel
+    - Name: ja
+      Entry: 1
+      Data: "\u30DF\u30A8\u30EB"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Character_9
+    - Name: $v
+      Entry: 7
+      Data: 13|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Character_9
+    - Name: ko
+      Entry: 1
+      Data: "\uD2F0\uC2AC\uB77C"
+    - Name: en
+      Entry: 1
+      Data: Thisla
+    - Name: ja
+      Entry: 1
+      Data: "\u30C6\u30A3\u30B9\u30E9"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Character_10
+    - Name: $v
+      Entry: 7
+      Data: 14|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Character_10
+    - Name: ko
+      Entry: 1
+      Data: "\uD2F0\uC2AC\uB77C"
+    - Name: en
+      Entry: 1
+      Data: Thisla
+    - Name: ja
+      Entry: 1
+      Data: "\u30C6\u30A3\u30B9\u30E9"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Character_11
+    - Name: $v
+      Entry: 7
+      Data: 15|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Character_11
+    - Name: ko
+      Entry: 1
+      Data: "\uD2F0\uC2AC\uB77C"
+    - Name: en
+      Entry: 1
+      Data: Thisla
+    - Name: ja
+      Entry: 1
+      Data: "\u30C6\u30A3\u30B9\u30E9"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Character_12
+    - Name: $v
+      Entry: 7
+      Data: 16|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Character_12
+    - Name: ko
+      Entry: 1
+      Data: "\uD50C\uB9AC\uC2A4"
+    - Name: en
+      Entry: 1
+      Data: fleece
+    - Name: ja
+      Entry: 1
+      Data: "\u30D5\u30EA\u30FC\u30B9"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Character_13
+    - Name: $v
+      Entry: 7
+      Data: 17|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Character_13
+    - Name: ko
+      Entry: 1
+      Data: "\uD50C\uB9AC\uC2A4"
+    - Name: en
+      Entry: 1
+      Data: fleece
+    - Name: ja
+      Entry: 1
+      Data: "\u30D5\u30EA\u30FC\u30B9"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Character_14
+    - Name: $v
+      Entry: 7
+      Data: 18|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Character_14
+    - Name: ko
+      Entry: 1
+      Data: "\uD50C\uB9AC\uC2A4"
+    - Name: en
+      Entry: 1
+      Data: fleece
+    - Name: ja
+      Entry: 1
+      Data: "\u30D5\u30EA\u30FC\u30B9"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Character_15
+    - Name: $v
+      Entry: 7
+      Data: 19|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Character_15
+    - Name: ko
+      Entry: 1
+      Data: "\uB77C\uC2A4\uD2F4"
+    - Name: en
+      Entry: 1
+      Data: Lastin
+    - Name: ja
+      Entry: 1
+      Data: "\u30E9\u30B9\u30C6\u30A3\u30F3"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Character_16
+    - Name: $v
+      Entry: 7
+      Data: 20|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Character_16
+    - Name: ko
+      Entry: 1
+      Data: "\uB77C\uC2A4\uD2F4"
+    - Name: en
+      Entry: 1
+      Data: Lastin
+    - Name: ja
+      Entry: 1
+      Data: "\u30E9\u30B9\u30C6\u30A3\u30F3"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Character_17
+    - Name: $v
+      Entry: 7
+      Data: 21|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Character_17
+    - Name: ko
+      Entry: 1
+      Data: "\uB77C\uC2A4\uD2F4"
+    - Name: en
+      Entry: 1
+      Data: Lastin
+    - Name: ja
+      Entry: 1
+      Data: "\u30E9\u30B9\u30C6\u30A3\u30F3"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Character_18
+    - Name: $v
+      Entry: 7
+      Data: 22|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Character_18
+    - Name: ko
+      Entry: 1
+      Data: "\uC544\uB974\uD53C"
+    - Name: en
+      Entry: 1
+      Data: Arpi
+    - Name: ja
+      Entry: 1
+      Data: "\u30A2\u30EB\u30D5\u30A3"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Character_19
+    - Name: $v
+      Entry: 7
+      Data: 23|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Character_19
+    - Name: ko
+      Entry: 1
+      Data: "\uC544\uB974\uD53C"
+    - Name: en
+      Entry: 1
+      Data: Arpi
+    - Name: ja
+      Entry: 1
+      Data: "\u30A2\u30EB\u30D5\u30A3"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Character_20
+    - Name: $v
+      Entry: 7
+      Data: 24|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Character_20
+    - Name: ko
+      Entry: 1
+      Data: "\uC544\uB974\uD53C"
+    - Name: en
+      Entry: 1
+      Data: Arpi
+    - Name: ja
+      Entry: 1
+      Data: "\u30A2\u30EB\u30D5\u30A3"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Character_21
+    - Name: $v
+      Entry: 7
+      Data: 25|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Character_21
+    - Name: ko
+      Entry: 1
+      Data: "\uB77C\uBBF8\uC2A4"
+    - Name: en
+      Entry: 1
+      Data: Ramis
+    - Name: ja
+      Entry: 1
+      Data: "\u30E9\u30DF\u30B9"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Character_22
+    - Name: $v
+      Entry: 7
+      Data: 26|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Character_22
+    - Name: ko
+      Entry: 1
+      Data: "\uB77C\uBBF8\uC2A4"
+    - Name: en
+      Entry: 1
+      Data: Ramis
+    - Name: ja
+      Entry: 1
+      Data: "\u30E9\u30DF\u30B9"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Character_23
+    - Name: $v
+      Entry: 7
+      Data: 27|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Character_23
+    - Name: ko
+      Entry: 1
+      Data: "\uB77C\uBBF8\uC2A4"
+    - Name: en
+      Entry: 1
+      Data: Ramis
+    - Name: ja
+      Entry: 1
+      Data: "\u30E9\u30DF\u30B9"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Character_24
+    - Name: $v
+      Entry: 7
+      Data: 28|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Character_24
+    - Name: ko
+      Entry: 1
+      Data: "\uACE8\uB514"
+    - Name: en
+      Entry: 1
+      Data: Goldie
+    - Name: ja
+      Entry: 1
+      Data: "\u30B4\u30FC\u30EB\u30C7\u30A3"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Character_25
+    - Name: $v
+      Entry: 7
+      Data: 29|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Character_25
+    - Name: ko
+      Entry: 1
+      Data: "\uACE8\uB514"
+    - Name: en
+      Entry: 1
+      Data: Goldie
+    - Name: ja
+      Entry: 1
+      Data: "\u30B4\u30FC\u30EB\u30C7\u30A3"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Character_26
+    - Name: $v
+      Entry: 7
+      Data: 30|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Character_26
+    - Name: ko
+      Entry: 1
+      Data: "\uACE8\uB514"
+    - Name: en
+      Entry: 1
+      Data: Goldie
+    - Name: ja
+      Entry: 1
+      Data: "\u30B4\u30FC\u30EB\u30C7\u30A3"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Character_27
+    - Name: $v
+      Entry: 7
+      Data: 31|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Character_27
+    - Name: ko
+      Entry: 1
+      Data: "\uB85C\uB2C8"
+    - Name: en
+      Entry: 1
+      Data: Ronnie
+    - Name: ja
+      Entry: 1
+      Data: "\u30ED\u30CB\u30FC"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Character_28
+    - Name: $v
+      Entry: 7
+      Data: 32|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Character_28
+    - Name: ko
+      Entry: 1
+      Data: "\uB85C\uB2C8"
+    - Name: en
+      Entry: 1
+      Data: Ronnie
+    - Name: ja
+      Entry: 1
+      Data: "\u30ED\u30CB\u30FC"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Character_29
+    - Name: $v
+      Entry: 7
+      Data: 33|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Character_29
+    - Name: ko
+      Entry: 1
+      Data: "\uB85C\uB2C8"
+    - Name: en
+      Entry: 1
+      Data: Ronnie
+    - Name: ja
+      Entry: 1
+      Data: "\u30ED\u30CB\u30FC"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Character_30
+    - Name: $v
+      Entry: 7
+      Data: 34|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Character_30
+    - Name: ko
+      Entry: 1
+      Data: "\uBCA0\uC77C"
+    - Name: en
+      Entry: 1
+      Data: veil
+    - Name: ja
+      Entry: 1
+      Data: "\u30D9\u30FC\u30EB"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Character_31
+    - Name: $v
+      Entry: 7
+      Data: 35|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Character_31
+    - Name: ko
+      Entry: 1
+      Data: "\uBCA0\uC77C"
+    - Name: en
+      Entry: 1
+      Data: veil
+    - Name: ja
+      Entry: 1
+      Data: "\u30D9\u30FC\u30EB"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Character_32
+    - Name: $v
+      Entry: 7
+      Data: 36|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Character_32
+    - Name: ko
+      Entry: 1
+      Data: "\uBCA0\uC77C"
+    - Name: en
+      Entry: 1
+      Data: veil
+    - Name: ja
+      Entry: 1
+      Data: "\u30D9\u30FC\u30EB"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Character_33
+    - Name: $v
+      Entry: 7
+      Data: 37|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Character_33
+    - Name: ko
+      Entry: 1
+      Data: "\uB9C8\uB274"
+    - Name: en
+      Entry: 1
+      Data: Manyu
+    - Name: ja
+      Entry: 1
+      Data: "\u30DE\u30CB\u30E5"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Character_34
+    - Name: $v
+      Entry: 7
+      Data: 38|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Character_34
+    - Name: ko
+      Entry: 1
+      Data: "\uB9C8\uB274"
+    - Name: en
+      Entry: 1
+      Data: Manyu
+    - Name: ja
+      Entry: 1
+      Data: "\u30DE\u30CB\u30E5"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Character_35
+    - Name: $v
+      Entry: 7
+      Data: 39|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Character_35
+    - Name: ko
+      Entry: 1
+      Data: "\uB9C8\uB274"
+    - Name: en
+      Entry: 1
+      Data: Manyu
+    - Name: ja
+      Entry: 1
+      Data: "\u30DE\u30CB\u30E5"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Character_36
+    - Name: $v
+      Entry: 7
+      Data: 40|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Character_36
+    - Name: ko
+      Entry: 1
+      Data: "\uC544\uC2A4\uD0C0"
+    - Name: en
+      Entry: 1
+      Data: Asta
+    - Name: ja
+      Entry: 1
+      Data: "\u30A2\u30B9\u30BF"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_MainCharacter_0
+    - Name: $v
+      Entry: 7
+      Data: 41|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_MainCharacter_0
+    - Name: ko
+      Entry: 1
+      Data: "\uC544\uCFE0\uC544\uB9B0"
+    - Name: en
+      Entry: 1
+      Data: Aquarine
+    - Name: ja
+      Entry: 1
+      Data: "\u30A2\u30AF\u30A2\u30EA\u30F3"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_MainCharacter_1
+    - Name: $v
+      Entry: 7
+      Data: 42|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_MainCharacter_1
+    - Name: ko
+      Entry: 1
+      Data: "\uC544\uCFE0\uC544\uB9B02"
+    - Name: en
+      Entry: 1
+      Data: Aquarine 2
+    - Name: ja
+      Entry: 1
+      Data: "\u30A2\u30AF\u30A2\u30EA\u30F32"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_MainCharacter_2
+    - Name: $v
+      Entry: 7
+      Data: 43|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_MainCharacter_2
+    - Name: ko
+      Entry: 1
+      Data: "\uC544\uCFE0\uC544\uB9B03"
+    - Name: en
+      Entry: 1
+      Data: Aquarine 3
+    - Name: ja
+      Entry: 1
+      Data: "\u30A2\u30AF\u30A2\u30EA\u30F33"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_MainCharacter_3
+    - Name: $v
+      Entry: 7
+      Data: 44|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_MainCharacter_3
+    - Name: ko
+      Entry: 1
+      Data: "\uB808\uBE0C"
+    - Name: en
+      Entry: 1
+      Data: rev
+    - Name: ja
+      Entry: 1
+      Data: "\u30EC\u30D6"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_MainCharacter_4
+    - Name: $v
+      Entry: 7
+      Data: 45|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_MainCharacter_4
+    - Name: ko
+      Entry: 1
+      Data: "\uB808\uBE0C2"
+    - Name: en
+      Entry: 1
+      Data: rev2
+    - Name: ja
+      Entry: 1
+      Data: "\u30EC\u30D62"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_MainCharacter_5
+    - Name: $v
+      Entry: 7
+      Data: 46|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_MainCharacter_5
+    - Name: ko
+      Entry: 1
+      Data: "\uB808\uBE0C3"
+    - Name: en
+      Entry: 1
+      Data: rev3
+    - Name: ja
+      Entry: 1
+      Data: "\u30EC\u30D63"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_MainCharacter_6
+    - Name: $v
+      Entry: 7
+      Data: 47|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_MainCharacter_6
+    - Name: ko
+      Entry: 1
+      Data: "\uBC84\uB4DC"
+    - Name: en
+      Entry: 1
+      Data: bird
+    - Name: ja
+      Entry: 1
+      Data: "\u9CE5"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_MainCharacter_7
+    - Name: $v
+      Entry: 7
+      Data: 48|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_MainCharacter_7
+    - Name: ko
+      Entry: 1
+      Data: "\uBC84\uB4DC2"
+    - Name: en
+      Entry: 1
+      Data: Bird 2
+    - Name: ja
+      Entry: 1
+      Data: "\u9CE52"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_MainCharacter_8
+    - Name: $v
+      Entry: 7
+      Data: 49|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_MainCharacter_8
+    - Name: ko
+      Entry: 1
+      Data: "\uBC84\uB4DC3"
+    - Name: en
+      Entry: 1
+      Data: Bird 3
+    - Name: ja
+      Entry: 1
+      Data: "\u9CE53"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_MainCharacter_9
+    - Name: $v
+      Entry: 7
+      Data: 50|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_MainCharacter_9
+    - Name: ko
+      Entry: 1
+      Data: "\uB8E8\uBBF8"
+    - Name: en
+      Entry: 1
+      Data: Rumi
+    - Name: ja
+      Entry: 1
+      Data: "\u30EB\u30DF"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_MainCharacter_10
+    - Name: $v
+      Entry: 7
+      Data: 51|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_MainCharacter_10
+    - Name: ko
+      Entry: 1
+      Data: "\uB8E8\uBBF82"
+    - Name: en
+      Entry: 1
+      Data: Rumi 2
+    - Name: ja
+      Entry: 1
+      Data: "\u30EB\u30DF2"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_MainCharacter_11
+    - Name: $v
+      Entry: 7
+      Data: 52|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_MainCharacter_11
+    - Name: ko
+      Entry: 1
+      Data: "\uB8E8\uBBF83"
+    - Name: en
+      Entry: 1
+      Data: Lumi 3
+    - Name: ja
+      Entry: 1
+      Data: "\u30EB\u30DF3"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_MainCharacter_12
+    - Name: $v
+      Entry: 7
+      Data: 53|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_MainCharacter_12
+    - Name: ko
+      Entry: 1
+      Data: "\uC544\uBAA8\uC2A4"
+    - Name: en
+      Entry: 1
+      Data: Amos
+    - Name: ja
+      Entry: 1
+      Data: "\u30A2\u30E2\u30B9"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_MainCharacter_13
+    - Name: $v
+      Entry: 7
+      Data: 54|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_MainCharacter_13
+    - Name: ko
+      Entry: 1
+      Data: "\uC544\uBAA8\uC2A42"
+    - Name: en
+      Entry: 1
+      Data: Amos 2
+    - Name: ja
+      Entry: 1
+      Data: "\u30A2\u30E2\u30B92"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_MainCharacter_14
+    - Name: $v
+      Entry: 7
+      Data: 55|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_MainCharacter_14
+    - Name: ko
+      Entry: 1
+      Data: "\uC544\uBAA8\uC2A43"
+    - Name: en
+      Entry: 1
+      Data: Amos 3
+    - Name: ja
+      Entry: 1
+      Data: "\u30A2\u30E2\u30B93"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_1
+    - Name: $v
+      Entry: 7
+      Data: 56|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_1
+    - Name: ko
+      Entry: 1
+      Data: "\uADF8\uB9B0\uBAAC\uC2A4\uD1301"
+    - Name: en
+      Entry: 1
+      Data: Green Monster 1
+    - Name: ja
+      Entry: 1
+      Data: "\u30B0\u30EA\u30FC\u30F3\u30E2\u30F3\u30B9\u30BF\u30FC1"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_2
+    - Name: $v
+      Entry: 7
+      Data: 57|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_2
+    - Name: ko
+      Entry: 1
+      Data: "\uADF8\uB9B0\uBAAC\uC2A4\uD1302"
+    - Name: en
+      Entry: 1
+      Data: Green Monster 2
+    - Name: ja
+      Entry: 1
+      Data: "\u30B0\u30EA\u30FC\u30F3\u30E2\u30F3\u30B9\u30BF\u30FC2"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_3
+    - Name: $v
+      Entry: 7
+      Data: 58|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_3
+    - Name: ko
+      Entry: 1
+      Data: "\uADF8\uB9B0\uBAAC\uC2A4\uD1303"
+    - Name: en
+      Entry: 1
+      Data: Green Monster 3
+    - Name: ja
+      Entry: 1
+      Data: "\u30B0\u30EA\u30FC\u30F3\u30E2\u30F3\u30B9\u30BF\u30FC3"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_4
+    - Name: $v
+      Entry: 7
+      Data: 59|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_4
+    - Name: ko
+      Entry: 1
+      Data: "\uADF8\uB9B0\uBAAC\uC2A4\uD1304"
+    - Name: en
+      Entry: 1
+      Data: Green Monster 4
+    - Name: ja
+      Entry: 1
+      Data: "\u30B0\u30EA\u30FC\u30F3\u30E2\u30F3\u30B9\u30BF\u30FC4"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_5
+    - Name: $v
+      Entry: 7
+      Data: 60|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_5
+    - Name: ko
+      Entry: 1
+      Data: "\uADF8\uB9B0\uBAAC\uC2A4\uD1305"
+    - Name: en
+      Entry: 1
+      Data: Green Monster 5
+    - Name: ja
+      Entry: 1
+      Data: "\u30B0\u30EA\u30FC\u30F3\u30E2\u30F3\u30B9\u30BF\u30FC5"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_6
+    - Name: $v
+      Entry: 7
+      Data: 61|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_6
+    - Name: ko
+      Entry: 1
+      Data: "\uADF8\uB9B0\uBAAC\uC2A4\uD1306"
+    - Name: en
+      Entry: 1
+      Data: Green Monster 6
+    - Name: ja
+      Entry: 1
+      Data: "\u30B0\u30EA\u30FC\u30F3\u30E2\u30F3\u30B9\u30BF\u30FC6"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_7
+    - Name: $v
+      Entry: 7
+      Data: 62|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_7
+    - Name: ko
+      Entry: 1
+      Data: "\uADF8\uB9B0\uBAAC\uC2A4\uD1307"
+    - Name: en
+      Entry: 1
+      Data: Green Monster 7
+    - Name: ja
+      Entry: 1
+      Data: "\u30B0\u30EA\u30FC\u30F3\u30E2\u30F3\u30B9\u30BF\u30FC7"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_8
+    - Name: $v
+      Entry: 7
+      Data: 63|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_8
+    - Name: ko
+      Entry: 1
+      Data: "\uADF8\uB9B0\uBAAC\uC2A4\uD1308"
+    - Name: en
+      Entry: 1
+      Data: Green Monster 8
+    - Name: ja
+      Entry: 1
+      Data: "\u30B0\u30EA\u30FC\u30F3\u30E2\u30F3\u30B9\u30BF\u30FC8"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_9
+    - Name: $v
+      Entry: 7
+      Data: 64|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_9
+    - Name: ko
+      Entry: 1
+      Data: "\uADF8\uB9B0\uBAAC\uC2A4\uD1309"
+    - Name: en
+      Entry: 1
+      Data: Green Monster 9
+    - Name: ja
+      Entry: 1
+      Data: "\u30B0\u30EA\u30FC\u30F3\u30E2\u30F3\u30B9\u30BF\u30FC9"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_10
+    - Name: $v
+      Entry: 7
+      Data: 65|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_10
+    - Name: ko
+      Entry: 1
+      Data: "\uADF8\uB9B0\uBAAC\uC2A4\uD13010"
+    - Name: en
+      Entry: 1
+      Data: Green Monster 10
+    - Name: ja
+      Entry: 1
+      Data: "\u30B0\u30EA\u30FC\u30F3\u30E2\u30F3\u30B9\u30BF\u30FC10"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_11
+    - Name: $v
+      Entry: 7
+      Data: 66|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_11
+    - Name: ko
+      Entry: 1
+      Data: "\uADF8\uB9B0\uBAAC\uC2A4\uD13011"
+    - Name: en
+      Entry: 1
+      Data: Green Monster 11
+    - Name: ja
+      Entry: 1
+      Data: "\u30B0\u30EA\u30FC\u30F3\u30E2\u30F3\u30B9\u30BF\u30FC11"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_12
+    - Name: $v
+      Entry: 7
+      Data: 67|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_12
+    - Name: ko
+      Entry: 1
+      Data: "\uB808\uB4DC\uBAAC\uC2A4\uD1301"
+    - Name: en
+      Entry: 1
+      Data: Red Monster 1
+    - Name: ja
+      Entry: 1
+      Data: "\u30EC\u30C3\u30C9\u30E2\u30F3\u30B9\u30BF\u30FC1"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_13
+    - Name: $v
+      Entry: 7
+      Data: 68|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_13
+    - Name: ko
+      Entry: 1
+      Data: "\uB808\uB4DC\uBAAC\uC2A4\uD1302"
+    - Name: en
+      Entry: 1
+      Data: Red Monster 2
+    - Name: ja
+      Entry: 1
+      Data: "\u30EC\u30C3\u30C9\u30E2\u30F3\u30B9\u30BF\u30FC2"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_14
+    - Name: $v
+      Entry: 7
+      Data: 69|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_14
+    - Name: ko
+      Entry: 1
+      Data: "\uB808\uB4DC\uBAAC\uC2A4\uD1303"
+    - Name: en
+      Entry: 1
+      Data: Red Monster 3
+    - Name: ja
+      Entry: 1
+      Data: "\u30EC\u30C3\u30C9\u30E2\u30F3\u30B9\u30BF\u30FC3"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_15
+    - Name: $v
+      Entry: 7
+      Data: 70|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_15
+    - Name: ko
+      Entry: 1
+      Data: "\uB808\uB4DC\uBAAC\uC2A4\uD1304"
+    - Name: en
+      Entry: 1
+      Data: Red Monster 4
+    - Name: ja
+      Entry: 1
+      Data: "\u30EC\u30C3\u30C9\u30E2\u30F3\u30B9\u30BF\u30FC4"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_16
+    - Name: $v
+      Entry: 7
+      Data: 71|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_16
+    - Name: ko
+      Entry: 1
+      Data: "\uB808\uB4DC\uBAAC\uC2A4\uD1305"
+    - Name: en
+      Entry: 1
+      Data: Red Monster 5
+    - Name: ja
+      Entry: 1
+      Data: "\u30EC\u30C3\u30C9\u30E2\u30F3\u30B9\u30BF\u30FC5"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_17
+    - Name: $v
+      Entry: 7
+      Data: 72|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_17
+    - Name: ko
+      Entry: 1
+      Data: "\uB808\uB4DC\uBAAC\uC2A4\uD1306"
+    - Name: en
+      Entry: 1
+      Data: Red Monster 6
+    - Name: ja
+      Entry: 1
+      Data: "\u30EC\u30C3\u30C9\u30E2\u30F3\u30B9\u30BF\u30FC6"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_18
+    - Name: $v
+      Entry: 7
+      Data: 73|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_18
+    - Name: ko
+      Entry: 1
+      Data: "\uB808\uB4DC\uBAAC\uC2A4\uD1307"
+    - Name: en
+      Entry: 1
+      Data: Red Monster 7
+    - Name: ja
+      Entry: 1
+      Data: "\u30EC\u30C3\u30C9\u30E2\u30F3\u30B9\u30BF\u30FC7"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_19
+    - Name: $v
+      Entry: 7
+      Data: 74|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_19
+    - Name: ko
+      Entry: 1
+      Data: "\uB808\uB4DC\uBAAC\uC2A4\uD1308"
+    - Name: en
+      Entry: 1
+      Data: Red Monster 8
+    - Name: ja
+      Entry: 1
+      Data: "\u30EC\u30C3\u30C9\u30E2\u30F3\u30B9\u30BF\u30FC8"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_20
+    - Name: $v
+      Entry: 7
+      Data: 75|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_20
+    - Name: ko
+      Entry: 1
+      Data: "\uB808\uB4DC\uBAAC\uC2A4\uD1309"
+    - Name: en
+      Entry: 1
+      Data: Red Monster 9
+    - Name: ja
+      Entry: 1
+      Data: "\u30EC\u30C3\u30C9\u30E2\u30F3\u30B9\u30BF\u30FC9"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_21
+    - Name: $v
+      Entry: 7
+      Data: 76|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_21
+    - Name: ko
+      Entry: 1
+      Data: "\uB808\uB4DC\uBAAC\uC2A4\uD13010"
+    - Name: en
+      Entry: 1
+      Data: Red Monster 10
+    - Name: ja
+      Entry: 1
+      Data: "\u30EC\u30C3\u30C9\u30E2\u30F3\u30B9\u30BF\u30FC10"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_22
+    - Name: $v
+      Entry: 7
+      Data: 77|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_22
+    - Name: ko
+      Entry: 1
+      Data: "\uB808\uB4DC\uBAAC\uC2A4\uD13011"
+    - Name: en
+      Entry: 1
+      Data: Red Monster 11
+    - Name: ja
+      Entry: 1
+      Data: "\u30EC\u30C3\u30C9\u30E2\u30F3\u30B9\u30BF\u30FC11"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_23
+    - Name: $v
+      Entry: 7
+      Data: 78|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_23
+    - Name: ko
+      Entry: 1
+      Data: "\uBE14\uB8E8\uBAAC\uC2A4\uD1301"
+    - Name: en
+      Entry: 1
+      Data: Blue Monster 1
+    - Name: ja
+      Entry: 1
+      Data: "\u30D6\u30EB\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC1"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_24
+    - Name: $v
+      Entry: 7
+      Data: 79|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_24
+    - Name: ko
+      Entry: 1
+      Data: "\uBE14\uB8E8\uBAAC\uC2A4\uD1302"
+    - Name: en
+      Entry: 1
+      Data: Blue Monster 2
+    - Name: ja
+      Entry: 1
+      Data: "\u30D6\u30EB\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC2"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_25
+    - Name: $v
+      Entry: 7
+      Data: 80|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_25
+    - Name: ko
+      Entry: 1
+      Data: "\uBE14\uB8E8\uBAAC\uC2A4\uD1303"
+    - Name: en
+      Entry: 1
+      Data: Blue Monster 3
+    - Name: ja
+      Entry: 1
+      Data: "\u30D6\u30EB\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC3"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_26
+    - Name: $v
+      Entry: 7
+      Data: 81|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_26
+    - Name: ko
+      Entry: 1
+      Data: "\uBE14\uB8E8\uBAAC\uC2A4\uD1304"
+    - Name: en
+      Entry: 1
+      Data: Blue Monster 4
+    - Name: ja
+      Entry: 1
+      Data: "\u30D6\u30EB\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC4"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_27
+    - Name: $v
+      Entry: 7
+      Data: 82|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_27
+    - Name: ko
+      Entry: 1
+      Data: "\uBE14\uB8E8\uBAAC\uC2A4\uD1305"
+    - Name: en
+      Entry: 1
+      Data: Blue Monster 5
+    - Name: ja
+      Entry: 1
+      Data: "\u30D6\u30EB\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC5"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_28
+    - Name: $v
+      Entry: 7
+      Data: 83|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_28
+    - Name: ko
+      Entry: 1
+      Data: "\uBE14\uB8E8\uBAAC\uC2A4\uD1306"
+    - Name: en
+      Entry: 1
+      Data: Blue Monster 6
+    - Name: ja
+      Entry: 1
+      Data: "\u30D6\u30EB\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC6"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_29
+    - Name: $v
+      Entry: 7
+      Data: 84|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_29
+    - Name: ko
+      Entry: 1
+      Data: "\uBE14\uB8E8\uBAAC\uC2A4\uD1307"
+    - Name: en
+      Entry: 1
+      Data: Blue Monster 7
+    - Name: ja
+      Entry: 1
+      Data: "\u30D6\u30EB\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC7"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_30
+    - Name: $v
+      Entry: 7
+      Data: 85|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_30
+    - Name: ko
+      Entry: 1
+      Data: "\uBE14\uB8E8\uBAAC\uC2A4\uD1308"
+    - Name: en
+      Entry: 1
+      Data: Blue Monster 8
+    - Name: ja
+      Entry: 1
+      Data: "\u30D6\u30EB\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC8"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_31
+    - Name: $v
+      Entry: 7
+      Data: 86|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_31
+    - Name: ko
+      Entry: 1
+      Data: "\uBE14\uB8E8\uBAAC\uC2A4\uD1309"
+    - Name: en
+      Entry: 1
+      Data: Blue Monster 9
+    - Name: ja
+      Entry: 1
+      Data: "\u30D6\u30EB\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC9"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_32
+    - Name: $v
+      Entry: 7
+      Data: 87|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_32
+    - Name: ko
+      Entry: 1
+      Data: "\uBE14\uB8E8\uBAAC\uC2A4\uD13010"
+    - Name: en
+      Entry: 1
+      Data: Blue Monster 10
+    - Name: ja
+      Entry: 1
+      Data: "\u30D6\u30EB\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC10"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_33
+    - Name: $v
+      Entry: 7
+      Data: 88|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_33
+    - Name: ko
+      Entry: 1
+      Data: "\uBE14\uB8E8\uBAAC\uC2A4\uD13011"
+    - Name: en
+      Entry: 1
+      Data: Blue Monster 11
+    - Name: ja
+      Entry: 1
+      Data: "\u30D6\u30EB\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC11"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_34
+    - Name: $v
+      Entry: 7
+      Data: 89|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_34
+    - Name: ko
+      Entry: 1
+      Data: "\uC610\uB85C\uC6B0\uBAAC\uC2A4\uD1301"
+    - Name: en
+      Entry: 1
+      Data: Yellow Monster 1
+    - Name: ja
+      Entry: 1
+      Data: "\u30A4\u30A8\u30ED\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC1"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_35
+    - Name: $v
+      Entry: 7
+      Data: 90|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_35
+    - Name: ko
+      Entry: 1
+      Data: "\uC610\uB85C\uC6B0\uBAAC\uC2A4\uD1302"
+    - Name: en
+      Entry: 1
+      Data: Yellow Monster 2
+    - Name: ja
+      Entry: 1
+      Data: "\u30A4\u30A8\u30ED\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC2"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_36
+    - Name: $v
+      Entry: 7
+      Data: 91|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_36
+    - Name: ko
+      Entry: 1
+      Data: "\uC610\uB85C\uC6B0\uBAAC\uC2A4\uD1303"
+    - Name: en
+      Entry: 1
+      Data: Yellow Monster 3
+    - Name: ja
+      Entry: 1
+      Data: "\u30A4\u30A8\u30ED\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC3"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_37
+    - Name: $v
+      Entry: 7
+      Data: 92|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_37
+    - Name: ko
+      Entry: 1
+      Data: "\uC610\uB85C\uC6B0\uBAAC\uC2A4\uD1304"
+    - Name: en
+      Entry: 1
+      Data: Yellow Monster 4
+    - Name: ja
+      Entry: 1
+      Data: "\u30A4\u30A8\u30ED\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC4"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_38
+    - Name: $v
+      Entry: 7
+      Data: 93|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_38
+    - Name: ko
+      Entry: 1
+      Data: "\uC610\uB85C\uC6B0\uBAAC\uC2A4\uD1305"
+    - Name: en
+      Entry: 1
+      Data: Yellow Monster 5
+    - Name: ja
+      Entry: 1
+      Data: "\u30A4\u30A8\u30ED\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC5"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_39
+    - Name: $v
+      Entry: 7
+      Data: 94|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_39
+    - Name: ko
+      Entry: 1
+      Data: "\uC610\uB85C\uC6B0\uBAAC\uC2A4\uD1306"
+    - Name: en
+      Entry: 1
+      Data: Yellow Monster 6
+    - Name: ja
+      Entry: 1
+      Data: "\u30A4\u30A8\u30ED\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC6"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_40
+    - Name: $v
+      Entry: 7
+      Data: 95|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_40
+    - Name: ko
+      Entry: 1
+      Data: "\uC610\uB85C\uC6B0\uBAAC\uC2A4\uD1307"
+    - Name: en
+      Entry: 1
+      Data: Yellow Monster 7
+    - Name: ja
+      Entry: 1
+      Data: "\u30A4\u30A8\u30ED\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC7"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_41
+    - Name: $v
+      Entry: 7
+      Data: 96|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_41
+    - Name: ko
+      Entry: 1
+      Data: "\uC610\uB85C\uC6B0\uBAAC\uC2A4\uD1308"
+    - Name: en
+      Entry: 1
+      Data: Yellow Monster 8
+    - Name: ja
+      Entry: 1
+      Data: "\u30A4\u30A8\u30ED\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC8"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_42
+    - Name: $v
+      Entry: 7
+      Data: 97|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_42
+    - Name: ko
+      Entry: 1
+      Data: "\uC610\uB85C\uC6B0\uBAAC\uC2A4\uD1309"
+    - Name: en
+      Entry: 1
+      Data: Yellow Monster 9
+    - Name: ja
+      Entry: 1
+      Data: "\u30A4\u30A8\u30ED\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC9"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_43
+    - Name: $v
+      Entry: 7
+      Data: 98|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_43
+    - Name: ko
+      Entry: 1
+      Data: "\uC610\uB85C\uC6B0\uBAAC\uC2A4\uD13010"
+    - Name: en
+      Entry: 1
+      Data: Yellow Monster 10
+    - Name: ja
+      Entry: 1
+      Data: "\u30A4\u30A8\u30ED\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC10"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_44
+    - Name: $v
+      Entry: 7
+      Data: 99|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_44
+    - Name: ko
+      Entry: 1
+      Data: "\uC610\uB85C\uC6B0\uBAAC\uC2A4\uD13011"
+    - Name: en
+      Entry: 1
+      Data: Yellow Monster 11
+    - Name: ja
+      Entry: 1
+      Data: "\u30A4\u30A8\u30ED\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC11"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_Monster_45
+    - Name: $v
+      Entry: 7
+      Data: 100|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_Monster_45
+    - Name: ko
+      Entry: 1
+      Data: "\uC5BC\uC74C\uBAAC\uC2A4\uD130"
+    - Name: en
+      Entry: 1
+      Data: ice monster
+    - Name: ja
+      Entry: 1
+      Data: "\u6C37\u30E2\u30F3\u30B9\u30BF\u30FC"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_ClassType_1
+    - Name: $v
+      Entry: 7
+      Data: 101|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_ClassType_1
+    - Name: ko
+      Entry: 1
+      Data: "\uC804\uC0AC"
+    - Name: en
+      Entry: 1
+      Data: warrior
+    - Name: ja
+      Entry: 1
+      Data: "\u6226\u58EB"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_ClassType_2
+    - Name: $v
+      Entry: 7
+      Data: 102|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_ClassType_2
+    - Name: ko
+      Entry: 1
+      Data: "\uB9C8\uBC95\uC0AC"
+    - Name: en
+      Entry: 1
+      Data: wizard
+    - Name: ja
+      Entry: 1
+      Data: "\u30A6\u30A3\u30B6\u30FC\u30C9"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_ClassType_3
+    - Name: $v
+      Entry: 7
+      Data: 103|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_ClassType_3
+    - Name: ko
+      Entry: 1
+      Data: "\uAD81\uC218"
+    - Name: en
+      Entry: 1
+      Data: Archer
+    - Name: ja
+      Entry: 1
+      Data: "\u5C04\u624B"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_AcademyClass_0
+    - Name: $v
+      Entry: 7
+      Data: 104|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_AcademyClass_0
+    - Name: ko
+      Entry: 1
+      Data: "\uAC80\uC220 \uC774\uB860"
+    - Name: en
+      Entry: 1
+      Data: swordsmanship theory
+    - Name: ja
+      Entry: 1
+      Data: "\u5263\u8853\u7406\u8AD6"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_AcademyClass_1
+    - Name: $v
+      Entry: 7
+      Data: 105|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_AcademyClass_1
+    - Name: ko
+      Entry: 1
+      Data: "\uBC29\uC5B4\uC220"
+    - Name: en
+      Entry: 1
+      Data: defense
+    - Name: ja
+      Entry: 1
+      Data: "\u9632\u5FA1\u8853"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_AcademyClass_2
+    - Name: $v
+      Entry: 7
+      Data: 106|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_AcademyClass_2
+    - Name: ko
+      Entry: 1
+      Data: "\uCE7C\uCDA4 \uC218\uC5C5"
+    - Name: en
+      Entry: 1
+      Data: sword dance class
+    - Name: ja
+      Entry: 1
+      Data: "\u30AB\u30FC\u30EB\u30C0\u30F3\u30B9\u30AF\u30E9\u30B9"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_AcademyClass_3
+    - Name: $v
+      Entry: 7
+      Data: 107|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_AcademyClass_3
+    - Name: ko
+      Entry: 1
+      Data: "\uACA9\uD22C\uC220"
+    - Name: en
+      Entry: 1
+      Data: fighting skills
+    - Name: ja
+      Entry: 1
+      Data: "\u683C\u95D8\u8853"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_AcademyClass_4
+    - Name: $v
+      Entry: 7
+      Data: 108|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_AcademyClass_4
+    - Name: ko
+      Entry: 1
+      Data: "\uC18D\uACF5 \uC218\uC5C5"
+    - Name: en
+      Entry: 1
+      Data: quick attack lesson
+    - Name: ja
+      Entry: 1
+      Data: "\u901F\u653B\u30EC\u30C3\u30B9\u30F3"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_AcademyClass_5
+    - Name: $v
+      Entry: 7
+      Data: 109|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_AcademyClass_5
+    - Name: ko
+      Entry: 1
+      Data: "\uC870\uC900 \uC218\uC5C5"
+    - Name: en
+      Entry: 1
+      Data: aim lessons
+    - Name: ja
+      Entry: 1
+      Data: "\u76EE\u6307\u3059\u30AF\u30E9\u30B9"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_AcademyClass_6
+    - Name: $v
+      Entry: 7
+      Data: 110|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_AcademyClass_6
+    - Name: ko
+      Entry: 1
+      Data: "\uBA85\uC911 \uC218\uC5C5"
+    - Name: en
+      Entry: 1
+      Data: hit class
+    - Name: ja
+      Entry: 1
+      Data: "\u547D\u4E2D\u30AF\u30E9\u30B9"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_AcademyClass_7
+    - Name: $v
+      Entry: 7
+      Data: 111|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_AcademyClass_7
+    - Name: ko
+      Entry: 1
+      Data: "\uC9D1\uC911 \uD6C8\uB828"
+    - Name: en
+      Entry: 1
+      Data: crash course
+    - Name: ja
+      Entry: 1
+      Data: "\u96C6\u4E2D\u30C8\u30EC\u30FC\u30CB\u30F3\u30B0"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_AcademyClass_8
+    - Name: $v
+      Entry: 7
+      Data: 112|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_AcademyClass_8
+    - Name: ko
+      Entry: 1
+      Data: "\uC18D\uC0AC \uC218\uC5C5"
+    - Name: en
+      Entry: 1
+      Data: rapid fire class
+    - Name: ja
+      Entry: 1
+      Data: "\u901F\u6B7B\u30EC\u30C3\u30B9\u30F3"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_AcademyClass_9
+    - Name: $v
+      Entry: 7
+      Data: 113|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_AcademyClass_9
+    - Name: ko
+      Entry: 1
+      Data: "\uC9C8\uD48D \uC218\uC5C5"
+    - Name: en
+      Entry: 1
+      Data: flurry lesson
+    - Name: ja
+      Entry: 1
+      Data: "\u75BE\u98A8\u30AF\u30E9\u30B9"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_AcademyClass_10
+    - Name: $v
+      Entry: 7
+      Data: 114|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_AcademyClass_10
+    - Name: ko
+      Entry: 1
+      Data: "\uC218\uD559 \uC218\uC5C5"
+    - Name: en
+      Entry: 1
+      Data: math class
+    - Name: ja
+      Entry: 1
+      Data: "\u6570\u5B66\u30AF\u30E9\u30B9"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_AcademyClass_11
+    - Name: $v
+      Entry: 7
+      Data: 115|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_AcademyClass_11
+    - Name: ko
+      Entry: 1
+      Data: "\uACFC\uD559 \uC218\uC5C5"
+    - Name: en
+      Entry: 1
+      Data: science class
+    - Name: ja
+      Entry: 1
+      Data: "\u79D1\u5B66\u30AF\u30E9\u30B9"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_AcademyClass_12
+    - Name: $v
+      Entry: 7
+      Data: 116|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_AcademyClass_12
+    - Name: ko
+      Entry: 1
+      Data: "\uB9C8\uBC95 \uC774\uB860"
+    - Name: en
+      Entry: 1
+      Data: magic theory
+    - Name: ja
+      Entry: 1
+      Data: "\u9B54\u6CD5\u7406\u8AD6"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_AcademyClass_13
+    - Name: $v
+      Entry: 7
+      Data: 117|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_AcademyClass_13
+    - Name: ko
+      Entry: 1
+      Data: "\uC5F0\uAE08\uC220"
+    - Name: en
+      Entry: 1
+      Data: alchemy
+    - Name: ja
+      Entry: 1
+      Data: "\u932C\u91D1\u8853"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Lo_AcademyClass_14
+    - Name: $v
+      Entry: 7
+      Data: 118|LocalizeData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Lo_AcademyClass_14
+    - Name: ko
+      Entry: 1
+      Data: "\uC18D\uC131 \uC218\uC5C5"
+    - Name: en
+      Entry: 1
+      Data: accelerated classes
+    - Name: ja
+      Entry: 1
+      Data: "\u5C5E\u6027\u30AF\u30E9\u30B9"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  dataArr:
+  - Key: Lo_Test
+    ko: "\uD14C\uC2A4\uD2B8"
+    en: test
+    ja: "\u30C6\u30B9\u30C8"
+  - Key: Lo_Monster_0
+    ko: "\uCD88\uCD88\uC774"
+    en: Chome
+    ja: "\u30C1\u30E7\u30F3\u30C1\u30E7\u30EB"
+  - Key: Lo_Character_0
+    ko: "\uC5D8\uD53C"
+    en: L.P.
+    ja: "\u30A8\u30EB\u30D4\u30FC"
+  - Key: Lo_Character_1
+    ko: "\uC5D8\uD53C"
+    en: L.P.
+    ja: "\u30A8\u30EB\u30D4\u30FC"
+  - Key: Lo_Character_2
+    ko: "\uC5D8\uD53C"
+    en: L.P.
+    ja: "\u30A8\u30EB\u30D4\u30FC"
+  - Key: Lo_Character_3
+    ko: "\uD558\uB9AC"
+    en: Hari
+    ja: "\u30CF\u30EA"
+  - Key: Lo_Character_4
+    ko: "\uD558\uB9AC"
+    en: Hari
+    ja: "\u30CF\u30EA"
+  - Key: Lo_Character_5
+    ko: "\uD558\uB9AC"
+    en: Hari
+    ja: "\u30CF\u30EA"
+  - Key: Lo_Character_6
+    ko: "\uBBF8\uC5D8"
+    en: miel
+    ja: "\u30DF\u30A8\u30EB"
+  - Key: Lo_Character_7
+    ko: "\uBBF8\uC5D8"
+    en: miel
+    ja: "\u30DF\u30A8\u30EB"
+  - Key: Lo_Character_8
+    ko: "\uBBF8\uC5D8"
+    en: miel
+    ja: "\u30DF\u30A8\u30EB"
+  - Key: Lo_Character_9
+    ko: "\uD2F0\uC2AC\uB77C"
+    en: Thisla
+    ja: "\u30C6\u30A3\u30B9\u30E9"
+  - Key: Lo_Character_10
+    ko: "\uD2F0\uC2AC\uB77C"
+    en: Thisla
+    ja: "\u30C6\u30A3\u30B9\u30E9"
+  - Key: Lo_Character_11
+    ko: "\uD2F0\uC2AC\uB77C"
+    en: Thisla
+    ja: "\u30C6\u30A3\u30B9\u30E9"
+  - Key: Lo_Character_12
+    ko: "\uD50C\uB9AC\uC2A4"
+    en: fleece
+    ja: "\u30D5\u30EA\u30FC\u30B9"
+  - Key: Lo_Character_13
+    ko: "\uD50C\uB9AC\uC2A4"
+    en: fleece
+    ja: "\u30D5\u30EA\u30FC\u30B9"
+  - Key: Lo_Character_14
+    ko: "\uD50C\uB9AC\uC2A4"
+    en: fleece
+    ja: "\u30D5\u30EA\u30FC\u30B9"
+  - Key: Lo_Character_15
+    ko: "\uB77C\uC2A4\uD2F4"
+    en: Lastin
+    ja: "\u30E9\u30B9\u30C6\u30A3\u30F3"
+  - Key: Lo_Character_16
+    ko: "\uB77C\uC2A4\uD2F4"
+    en: Lastin
+    ja: "\u30E9\u30B9\u30C6\u30A3\u30F3"
+  - Key: Lo_Character_17
+    ko: "\uB77C\uC2A4\uD2F4"
+    en: Lastin
+    ja: "\u30E9\u30B9\u30C6\u30A3\u30F3"
+  - Key: Lo_Character_18
+    ko: "\uC544\uB974\uD53C"
+    en: Arpi
+    ja: "\u30A2\u30EB\u30D5\u30A3"
+  - Key: Lo_Character_19
+    ko: "\uC544\uB974\uD53C"
+    en: Arpi
+    ja: "\u30A2\u30EB\u30D5\u30A3"
+  - Key: Lo_Character_20
+    ko: "\uC544\uB974\uD53C"
+    en: Arpi
+    ja: "\u30A2\u30EB\u30D5\u30A3"
+  - Key: Lo_Character_21
+    ko: "\uB77C\uBBF8\uC2A4"
+    en: Ramis
+    ja: "\u30E9\u30DF\u30B9"
+  - Key: Lo_Character_22
+    ko: "\uB77C\uBBF8\uC2A4"
+    en: Ramis
+    ja: "\u30E9\u30DF\u30B9"
+  - Key: Lo_Character_23
+    ko: "\uB77C\uBBF8\uC2A4"
+    en: Ramis
+    ja: "\u30E9\u30DF\u30B9"
+  - Key: Lo_Character_24
+    ko: "\uACE8\uB514"
+    en: Goldie
+    ja: "\u30B4\u30FC\u30EB\u30C7\u30A3"
+  - Key: Lo_Character_25
+    ko: "\uACE8\uB514"
+    en: Goldie
+    ja: "\u30B4\u30FC\u30EB\u30C7\u30A3"
+  - Key: Lo_Character_26
+    ko: "\uACE8\uB514"
+    en: Goldie
+    ja: "\u30B4\u30FC\u30EB\u30C7\u30A3"
+  - Key: Lo_Character_27
+    ko: "\uB85C\uB2C8"
+    en: Ronnie
+    ja: "\u30ED\u30CB\u30FC"
+  - Key: Lo_Character_28
+    ko: "\uB85C\uB2C8"
+    en: Ronnie
+    ja: "\u30ED\u30CB\u30FC"
+  - Key: Lo_Character_29
+    ko: "\uB85C\uB2C8"
+    en: Ronnie
+    ja: "\u30ED\u30CB\u30FC"
+  - Key: Lo_Character_30
+    ko: "\uBCA0\uC77C"
+    en: veil
+    ja: "\u30D9\u30FC\u30EB"
+  - Key: Lo_Character_31
+    ko: "\uBCA0\uC77C"
+    en: veil
+    ja: "\u30D9\u30FC\u30EB"
+  - Key: Lo_Character_32
+    ko: "\uBCA0\uC77C"
+    en: veil
+    ja: "\u30D9\u30FC\u30EB"
+  - Key: Lo_Character_33
+    ko: "\uB9C8\uB274"
+    en: Manyu
+    ja: "\u30DE\u30CB\u30E5"
+  - Key: Lo_Character_34
+    ko: "\uB9C8\uB274"
+    en: Manyu
+    ja: "\u30DE\u30CB\u30E5"
+  - Key: Lo_Character_35
+    ko: "\uB9C8\uB274"
+    en: Manyu
+    ja: "\u30DE\u30CB\u30E5"
+  - Key: Lo_Character_36
+    ko: "\uC544\uC2A4\uD0C0"
+    en: Asta
+    ja: "\u30A2\u30B9\u30BF"
+  - Key: Lo_MainCharacter_0
+    ko: "\uC544\uCFE0\uC544\uB9B0"
+    en: Aquarine
+    ja: "\u30A2\u30AF\u30A2\u30EA\u30F3"
+  - Key: Lo_MainCharacter_1
+    ko: "\uC544\uCFE0\uC544\uB9B02"
+    en: Aquarine 2
+    ja: "\u30A2\u30AF\u30A2\u30EA\u30F32"
+  - Key: Lo_MainCharacter_2
+    ko: "\uC544\uCFE0\uC544\uB9B03"
+    en: Aquarine 3
+    ja: "\u30A2\u30AF\u30A2\u30EA\u30F33"
+  - Key: Lo_MainCharacter_3
+    ko: "\uB808\uBE0C"
+    en: rev
+    ja: "\u30EC\u30D6"
+  - Key: Lo_MainCharacter_4
+    ko: "\uB808\uBE0C2"
+    en: rev2
+    ja: "\u30EC\u30D62"
+  - Key: Lo_MainCharacter_5
+    ko: "\uB808\uBE0C3"
+    en: rev3
+    ja: "\u30EC\u30D63"
+  - Key: Lo_MainCharacter_6
+    ko: "\uBC84\uB4DC"
+    en: bird
+    ja: "\u9CE5"
+  - Key: Lo_MainCharacter_7
+    ko: "\uBC84\uB4DC2"
+    en: Bird 2
+    ja: "\u9CE52"
+  - Key: Lo_MainCharacter_8
+    ko: "\uBC84\uB4DC3"
+    en: Bird 3
+    ja: "\u9CE53"
+  - Key: Lo_MainCharacter_9
+    ko: "\uB8E8\uBBF8"
+    en: Rumi
+    ja: "\u30EB\u30DF"
+  - Key: Lo_MainCharacter_10
+    ko: "\uB8E8\uBBF82"
+    en: Rumi 2
+    ja: "\u30EB\u30DF2"
+  - Key: Lo_MainCharacter_11
+    ko: "\uB8E8\uBBF83"
+    en: Lumi 3
+    ja: "\u30EB\u30DF3"
+  - Key: Lo_MainCharacter_12
+    ko: "\uC544\uBAA8\uC2A4"
+    en: Amos
+    ja: "\u30A2\u30E2\u30B9"
+  - Key: Lo_MainCharacter_13
+    ko: "\uC544\uBAA8\uC2A42"
+    en: Amos 2
+    ja: "\u30A2\u30E2\u30B92"
+  - Key: Lo_MainCharacter_14
+    ko: "\uC544\uBAA8\uC2A43"
+    en: Amos 3
+    ja: "\u30A2\u30E2\u30B93"
+  - Key: Lo_Monster_1
+    ko: "\uADF8\uB9B0\uBAAC\uC2A4\uD1301"
+    en: Green Monster 1
+    ja: "\u30B0\u30EA\u30FC\u30F3\u30E2\u30F3\u30B9\u30BF\u30FC1"
+  - Key: Lo_Monster_2
+    ko: "\uADF8\uB9B0\uBAAC\uC2A4\uD1302"
+    en: Green Monster 2
+    ja: "\u30B0\u30EA\u30FC\u30F3\u30E2\u30F3\u30B9\u30BF\u30FC2"
+  - Key: Lo_Monster_3
+    ko: "\uADF8\uB9B0\uBAAC\uC2A4\uD1303"
+    en: Green Monster 3
+    ja: "\u30B0\u30EA\u30FC\u30F3\u30E2\u30F3\u30B9\u30BF\u30FC3"
+  - Key: Lo_Monster_4
+    ko: "\uADF8\uB9B0\uBAAC\uC2A4\uD1304"
+    en: Green Monster 4
+    ja: "\u30B0\u30EA\u30FC\u30F3\u30E2\u30F3\u30B9\u30BF\u30FC4"
+  - Key: Lo_Monster_5
+    ko: "\uADF8\uB9B0\uBAAC\uC2A4\uD1305"
+    en: Green Monster 5
+    ja: "\u30B0\u30EA\u30FC\u30F3\u30E2\u30F3\u30B9\u30BF\u30FC5"
+  - Key: Lo_Monster_6
+    ko: "\uADF8\uB9B0\uBAAC\uC2A4\uD1306"
+    en: Green Monster 6
+    ja: "\u30B0\u30EA\u30FC\u30F3\u30E2\u30F3\u30B9\u30BF\u30FC6"
+  - Key: Lo_Monster_7
+    ko: "\uADF8\uB9B0\uBAAC\uC2A4\uD1307"
+    en: Green Monster 7
+    ja: "\u30B0\u30EA\u30FC\u30F3\u30E2\u30F3\u30B9\u30BF\u30FC7"
+  - Key: Lo_Monster_8
+    ko: "\uADF8\uB9B0\uBAAC\uC2A4\uD1308"
+    en: Green Monster 8
+    ja: "\u30B0\u30EA\u30FC\u30F3\u30E2\u30F3\u30B9\u30BF\u30FC8"
+  - Key: Lo_Monster_9
+    ko: "\uADF8\uB9B0\uBAAC\uC2A4\uD1309"
+    en: Green Monster 9
+    ja: "\u30B0\u30EA\u30FC\u30F3\u30E2\u30F3\u30B9\u30BF\u30FC9"
+  - Key: Lo_Monster_10
+    ko: "\uADF8\uB9B0\uBAAC\uC2A4\uD13010"
+    en: Green Monster 10
+    ja: "\u30B0\u30EA\u30FC\u30F3\u30E2\u30F3\u30B9\u30BF\u30FC10"
+  - Key: Lo_Monster_11
+    ko: "\uADF8\uB9B0\uBAAC\uC2A4\uD13011"
+    en: Green Monster 11
+    ja: "\u30B0\u30EA\u30FC\u30F3\u30E2\u30F3\u30B9\u30BF\u30FC11"
+  - Key: Lo_Monster_12
+    ko: "\uB808\uB4DC\uBAAC\uC2A4\uD1301"
+    en: Red Monster 1
+    ja: "\u30EC\u30C3\u30C9\u30E2\u30F3\u30B9\u30BF\u30FC1"
+  - Key: Lo_Monster_13
+    ko: "\uB808\uB4DC\uBAAC\uC2A4\uD1302"
+    en: Red Monster 2
+    ja: "\u30EC\u30C3\u30C9\u30E2\u30F3\u30B9\u30BF\u30FC2"
+  - Key: Lo_Monster_14
+    ko: "\uB808\uB4DC\uBAAC\uC2A4\uD1303"
+    en: Red Monster 3
+    ja: "\u30EC\u30C3\u30C9\u30E2\u30F3\u30B9\u30BF\u30FC3"
+  - Key: Lo_Monster_15
+    ko: "\uB808\uB4DC\uBAAC\uC2A4\uD1304"
+    en: Red Monster 4
+    ja: "\u30EC\u30C3\u30C9\u30E2\u30F3\u30B9\u30BF\u30FC4"
+  - Key: Lo_Monster_16
+    ko: "\uB808\uB4DC\uBAAC\uC2A4\uD1305"
+    en: Red Monster 5
+    ja: "\u30EC\u30C3\u30C9\u30E2\u30F3\u30B9\u30BF\u30FC5"
+  - Key: Lo_Monster_17
+    ko: "\uB808\uB4DC\uBAAC\uC2A4\uD1306"
+    en: Red Monster 6
+    ja: "\u30EC\u30C3\u30C9\u30E2\u30F3\u30B9\u30BF\u30FC6"
+  - Key: Lo_Monster_18
+    ko: "\uB808\uB4DC\uBAAC\uC2A4\uD1307"
+    en: Red Monster 7
+    ja: "\u30EC\u30C3\u30C9\u30E2\u30F3\u30B9\u30BF\u30FC7"
+  - Key: Lo_Monster_19
+    ko: "\uB808\uB4DC\uBAAC\uC2A4\uD1308"
+    en: Red Monster 8
+    ja: "\u30EC\u30C3\u30C9\u30E2\u30F3\u30B9\u30BF\u30FC8"
+  - Key: Lo_Monster_20
+    ko: "\uB808\uB4DC\uBAAC\uC2A4\uD1309"
+    en: Red Monster 9
+    ja: "\u30EC\u30C3\u30C9\u30E2\u30F3\u30B9\u30BF\u30FC9"
+  - Key: Lo_Monster_21
+    ko: "\uB808\uB4DC\uBAAC\uC2A4\uD13010"
+    en: Red Monster 10
+    ja: "\u30EC\u30C3\u30C9\u30E2\u30F3\u30B9\u30BF\u30FC10"
+  - Key: Lo_Monster_22
+    ko: "\uB808\uB4DC\uBAAC\uC2A4\uD13011"
+    en: Red Monster 11
+    ja: "\u30EC\u30C3\u30C9\u30E2\u30F3\u30B9\u30BF\u30FC11"
+  - Key: Lo_Monster_23
+    ko: "\uBE14\uB8E8\uBAAC\uC2A4\uD1301"
+    en: Blue Monster 1
+    ja: "\u30D6\u30EB\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC1"
+  - Key: Lo_Monster_24
+    ko: "\uBE14\uB8E8\uBAAC\uC2A4\uD1302"
+    en: Blue Monster 2
+    ja: "\u30D6\u30EB\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC2"
+  - Key: Lo_Monster_25
+    ko: "\uBE14\uB8E8\uBAAC\uC2A4\uD1303"
+    en: Blue Monster 3
+    ja: "\u30D6\u30EB\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC3"
+  - Key: Lo_Monster_26
+    ko: "\uBE14\uB8E8\uBAAC\uC2A4\uD1304"
+    en: Blue Monster 4
+    ja: "\u30D6\u30EB\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC4"
+  - Key: Lo_Monster_27
+    ko: "\uBE14\uB8E8\uBAAC\uC2A4\uD1305"
+    en: Blue Monster 5
+    ja: "\u30D6\u30EB\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC5"
+  - Key: Lo_Monster_28
+    ko: "\uBE14\uB8E8\uBAAC\uC2A4\uD1306"
+    en: Blue Monster 6
+    ja: "\u30D6\u30EB\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC6"
+  - Key: Lo_Monster_29
+    ko: "\uBE14\uB8E8\uBAAC\uC2A4\uD1307"
+    en: Blue Monster 7
+    ja: "\u30D6\u30EB\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC7"
+  - Key: Lo_Monster_30
+    ko: "\uBE14\uB8E8\uBAAC\uC2A4\uD1308"
+    en: Blue Monster 8
+    ja: "\u30D6\u30EB\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC8"
+  - Key: Lo_Monster_31
+    ko: "\uBE14\uB8E8\uBAAC\uC2A4\uD1309"
+    en: Blue Monster 9
+    ja: "\u30D6\u30EB\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC9"
+  - Key: Lo_Monster_32
+    ko: "\uBE14\uB8E8\uBAAC\uC2A4\uD13010"
+    en: Blue Monster 10
+    ja: "\u30D6\u30EB\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC10"
+  - Key: Lo_Monster_33
+    ko: "\uBE14\uB8E8\uBAAC\uC2A4\uD13011"
+    en: Blue Monster 11
+    ja: "\u30D6\u30EB\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC11"
+  - Key: Lo_Monster_34
+    ko: "\uC610\uB85C\uC6B0\uBAAC\uC2A4\uD1301"
+    en: Yellow Monster 1
+    ja: "\u30A4\u30A8\u30ED\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC1"
+  - Key: Lo_Monster_35
+    ko: "\uC610\uB85C\uC6B0\uBAAC\uC2A4\uD1302"
+    en: Yellow Monster 2
+    ja: "\u30A4\u30A8\u30ED\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC2"
+  - Key: Lo_Monster_36
+    ko: "\uC610\uB85C\uC6B0\uBAAC\uC2A4\uD1303"
+    en: Yellow Monster 3
+    ja: "\u30A4\u30A8\u30ED\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC3"
+  - Key: Lo_Monster_37
+    ko: "\uC610\uB85C\uC6B0\uBAAC\uC2A4\uD1304"
+    en: Yellow Monster 4
+    ja: "\u30A4\u30A8\u30ED\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC4"
+  - Key: Lo_Monster_38
+    ko: "\uC610\uB85C\uC6B0\uBAAC\uC2A4\uD1305"
+    en: Yellow Monster 5
+    ja: "\u30A4\u30A8\u30ED\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC5"
+  - Key: Lo_Monster_39
+    ko: "\uC610\uB85C\uC6B0\uBAAC\uC2A4\uD1306"
+    en: Yellow Monster 6
+    ja: "\u30A4\u30A8\u30ED\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC6"
+  - Key: Lo_Monster_40
+    ko: "\uC610\uB85C\uC6B0\uBAAC\uC2A4\uD1307"
+    en: Yellow Monster 7
+    ja: "\u30A4\u30A8\u30ED\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC7"
+  - Key: Lo_Monster_41
+    ko: "\uC610\uB85C\uC6B0\uBAAC\uC2A4\uD1308"
+    en: Yellow Monster 8
+    ja: "\u30A4\u30A8\u30ED\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC8"
+  - Key: Lo_Monster_42
+    ko: "\uC610\uB85C\uC6B0\uBAAC\uC2A4\uD1309"
+    en: Yellow Monster 9
+    ja: "\u30A4\u30A8\u30ED\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC9"
+  - Key: Lo_Monster_43
+    ko: "\uC610\uB85C\uC6B0\uBAAC\uC2A4\uD13010"
+    en: Yellow Monster 10
+    ja: "\u30A4\u30A8\u30ED\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC10"
+  - Key: Lo_Monster_44
+    ko: "\uC610\uB85C\uC6B0\uBAAC\uC2A4\uD13011"
+    en: Yellow Monster 11
+    ja: "\u30A4\u30A8\u30ED\u30FC\u30E2\u30F3\u30B9\u30BF\u30FC11"
+  - Key: Lo_Monster_45
+    ko: "\uC5BC\uC74C\uBAAC\uC2A4\uD130"
+    en: ice monster
+    ja: "\u6C37\u30E2\u30F3\u30B9\u30BF\u30FC"
+  - Key: Lo_ClassType_1
+    ko: "\uC804\uC0AC"
+    en: warrior
+    ja: "\u6226\u58EB"
+  - Key: Lo_ClassType_2
+    ko: "\uB9C8\uBC95\uC0AC"
+    en: wizard
+    ja: "\u30A6\u30A3\u30B6\u30FC\u30C9"
+  - Key: Lo_ClassType_3
+    ko: "\uAD81\uC218"
+    en: Archer
+    ja: "\u5C04\u624B"
+  - Key: Lo_AcademyClass_0
+    ko: "\uAC80\uC220 \uC774\uB860"
+    en: swordsmanship theory
+    ja: "\u5263\u8853\u7406\u8AD6"
+  - Key: Lo_AcademyClass_1
+    ko: "\uBC29\uC5B4\uC220"
+    en: defense
+    ja: "\u9632\u5FA1\u8853"
+  - Key: Lo_AcademyClass_2
+    ko: "\uCE7C\uCDA4 \uC218\uC5C5"
+    en: sword dance class
+    ja: "\u30AB\u30FC\u30EB\u30C0\u30F3\u30B9\u30AF\u30E9\u30B9"
+  - Key: Lo_AcademyClass_3
+    ko: "\uACA9\uD22C\uC220"
+    en: fighting skills
+    ja: "\u683C\u95D8\u8853"
+  - Key: Lo_AcademyClass_4
+    ko: "\uC18D\uACF5 \uC218\uC5C5"
+    en: quick attack lesson
+    ja: "\u901F\u653B\u30EC\u30C3\u30B9\u30F3"
+  - Key: Lo_AcademyClass_5
+    ko: "\uC870\uC900 \uC218\uC5C5"
+    en: aim lessons
+    ja: "\u76EE\u6307\u3059\u30AF\u30E9\u30B9"
+  - Key: Lo_AcademyClass_6
+    ko: "\uBA85\uC911 \uC218\uC5C5"
+    en: hit class
+    ja: "\u547D\u4E2D\u30AF\u30E9\u30B9"
+  - Key: Lo_AcademyClass_7
+    ko: "\uC9D1\uC911 \uD6C8\uB828"
+    en: crash course
+    ja: "\u96C6\u4E2D\u30C8\u30EC\u30FC\u30CB\u30F3\u30B0"
+  - Key: Lo_AcademyClass_8
+    ko: "\uC18D\uC0AC \uC218\uC5C5"
+    en: rapid fire class
+    ja: "\u901F\u6B7B\u30EC\u30C3\u30B9\u30F3"
+  - Key: Lo_AcademyClass_9
+    ko: "\uC9C8\uD48D \uC218\uC5C5"
+    en: flurry lesson
+    ja: "\u75BE\u98A8\u30AF\u30E9\u30B9"
+  - Key: Lo_AcademyClass_10
+    ko: "\uC218\uD559 \uC218\uC5C5"
+    en: math class
+    ja: "\u6570\u5B66\u30AF\u30E9\u30B9"
+  - Key: Lo_AcademyClass_11
+    ko: "\uACFC\uD559 \uC218\uC5C5"
+    en: science class
+    ja: "\u79D1\u5B66\u30AF\u30E9\u30B9"
+  - Key: Lo_AcademyClass_12
+    ko: "\uB9C8\uBC95 \uC774\uB860"
+    en: magic theory
+    ja: "\u9B54\u6CD5\u7406\u8AD6"
+  - Key: Lo_AcademyClass_13
+    ko: "\uC5F0\uAE08\uC220"
+    en: alchemy
+    ja: "\u932C\u91D1\u8853"
+  - Key: Lo_AcademyClass_14
+    ko: "\uC18D\uC131 \uC218\uC5C5"
+    en: accelerated classes
+    ja: "\u5C5E\u6027\u30AF\u30E9\u30B9"
+  keyArr:
+  - Lo_Test
+  - Lo_Monster_0
+  - Lo_Character_0
+  - Lo_Character_1
+  - Lo_Character_2
+  - Lo_Character_3
+  - Lo_Character_4
+  - Lo_Character_5
+  - Lo_Character_6
+  - Lo_Character_7
+  - Lo_Character_8
+  - Lo_Character_9
+  - Lo_Character_10
+  - Lo_Character_11
+  - Lo_Character_12
+  - Lo_Character_13
+  - Lo_Character_14
+  - Lo_Character_15
+  - Lo_Character_16
+  - Lo_Character_17
+  - Lo_Character_18
+  - Lo_Character_19
+  - Lo_Character_20
+  - Lo_Character_21
+  - Lo_Character_22
+  - Lo_Character_23
+  - Lo_Character_24
+  - Lo_Character_25
+  - Lo_Character_26
+  - Lo_Character_27
+  - Lo_Character_28
+  - Lo_Character_29
+  - Lo_Character_30
+  - Lo_Character_31
+  - Lo_Character_32
+  - Lo_Character_33
+  - Lo_Character_34
+  - Lo_Character_35
+  - Lo_Character_36
+  - Lo_MainCharacter_0
+  - Lo_MainCharacter_1
+  - Lo_MainCharacter_2
+  - Lo_MainCharacter_3
+  - Lo_MainCharacter_4
+  - Lo_MainCharacter_5
+  - Lo_MainCharacter_6
+  - Lo_MainCharacter_7
+  - Lo_MainCharacter_8
+  - Lo_MainCharacter_9
+  - Lo_MainCharacter_10
+  - Lo_MainCharacter_11
+  - Lo_MainCharacter_12
+  - Lo_MainCharacter_13
+  - Lo_MainCharacter_14
+  - Lo_Monster_1
+  - Lo_Monster_2
+  - Lo_Monster_3
+  - Lo_Monster_4
+  - Lo_Monster_5
+  - Lo_Monster_6
+  - Lo_Monster_7
+  - Lo_Monster_8
+  - Lo_Monster_9
+  - Lo_Monster_10
+  - Lo_Monster_11
+  - Lo_Monster_12
+  - Lo_Monster_13
+  - Lo_Monster_14
+  - Lo_Monster_15
+  - Lo_Monster_16
+  - Lo_Monster_17
+  - Lo_Monster_18
+  - Lo_Monster_19
+  - Lo_Monster_20
+  - Lo_Monster_21
+  - Lo_Monster_22
+  - Lo_Monster_23
+  - Lo_Monster_24
+  - Lo_Monster_25
+  - Lo_Monster_26
+  - Lo_Monster_27
+  - Lo_Monster_28
+  - Lo_Monster_29
+  - Lo_Monster_30
+  - Lo_Monster_31
+  - Lo_Monster_32
+  - Lo_Monster_33
+  - Lo_Monster_34
+  - Lo_Monster_35
+  - Lo_Monster_36
+  - Lo_Monster_37
+  - Lo_Monster_38
+  - Lo_Monster_39
+  - Lo_Monster_40
+  - Lo_Monster_41
+  - Lo_Monster_42
+  - Lo_Monster_43
+  - Lo_Monster_44
+  - Lo_Monster_45
+  - Lo_ClassType_1
+  - Lo_ClassType_2
+  - Lo_ClassType_3
+  - Lo_AcademyClass_0
+  - Lo_AcademyClass_1
+  - Lo_AcademyClass_2
+  - Lo_AcademyClass_3
+  - Lo_AcademyClass_4
+  - Lo_AcademyClass_5
+  - Lo_AcademyClass_6
+  - Lo_AcademyClass_7
+  - Lo_AcademyClass_8
+  - Lo_AcademyClass_9
+  - Lo_AcademyClass_10
+  - Lo_AcademyClass_11
+  - Lo_AcademyClass_12
+  - Lo_AcademyClass_13
+  - Lo_AcademyClass_14

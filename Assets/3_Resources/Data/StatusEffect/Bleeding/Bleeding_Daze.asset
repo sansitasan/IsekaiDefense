@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34bf821fb62f4537943ecdd2038c0030, type: 3}
+  m_Name: Bleeding_Daze
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 4124999916983397026, guid: 67c6b9272a4f0304389daecf8e1cde76, type: 3}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: NameKey
+      Entry: 7
+      Data: 0|LocalizeKey, Assembly-CSharp
+    - Name: key
+      Entry: 1
+      Data: Lo_Test
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: DescriptionKey
+      Entry: 7
+      Data: 1|LocalizeKey, Assembly-CSharp
+    - Name: key
+      Entry: 1
+      Data: Lo_Test
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: DeBuffType
+      Entry: 3
+      Data: 3
+    - Name: Duration
+      Entry: 4
+      Data: 5
+    - Name: Icon
+      Entry: 6
+      Data: 
+    - Name: HitEffect
+      Entry: 10
+      Data: 0
+  mPercentDamage: 2
+  mLevel: 3

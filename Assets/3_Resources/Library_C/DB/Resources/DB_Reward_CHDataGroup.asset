@@ -1,0 +1,441 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec0e2a078fd77994ca6ebb7ad7c5f59e, type: 3}
+  m_Name: DB_Reward_CHDataGroup
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: dataDic
+      Entry: 7
+      Data: 0|System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[Reward_CHData,
+        Assembly-CSharp]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 1|System.Collections.Generic.GenericEqualityComparer`1[[System.String,
+        mscorlib]], mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 11
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Reward_0
+    - Name: $v
+      Entry: 7
+      Data: 2|Reward_CHData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Reward_0
+    - Name: Min_Wave
+      Entry: 3
+      Data: 1
+    - Name: Max_Wave
+      Entry: 3
+      Data: 10
+    - Name: Reward_Value
+      Entry: 1
+      Data: Item_1
+    - Name: Reward_Count
+      Entry: 3
+      Data: 150
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Reward_1
+    - Name: $v
+      Entry: 7
+      Data: 3|Reward_CHData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Reward_1
+    - Name: Min_Wave
+      Entry: 3
+      Data: 11
+    - Name: Max_Wave
+      Entry: 3
+      Data: 20
+    - Name: Reward_Value
+      Entry: 1
+      Data: Item_1
+    - Name: Reward_Count
+      Entry: 3
+      Data: 200
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Reward_2
+    - Name: $v
+      Entry: 7
+      Data: 4|Reward_CHData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Reward_2
+    - Name: Min_Wave
+      Entry: 3
+      Data: 21
+    - Name: Max_Wave
+      Entry: 3
+      Data: 30
+    - Name: Reward_Value
+      Entry: 1
+      Data: Item_1
+    - Name: Reward_Count
+      Entry: 3
+      Data: 250
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Reward_3
+    - Name: $v
+      Entry: 7
+      Data: 5|Reward_CHData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Reward_3
+    - Name: Min_Wave
+      Entry: 3
+      Data: 31
+    - Name: Max_Wave
+      Entry: 3
+      Data: 40
+    - Name: Reward_Value
+      Entry: 1
+      Data: Item_1
+    - Name: Reward_Count
+      Entry: 3
+      Data: 300
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Reward_4
+    - Name: $v
+      Entry: 7
+      Data: 6|Reward_CHData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Reward_4
+    - Name: Min_Wave
+      Entry: 3
+      Data: 41
+    - Name: Max_Wave
+      Entry: 3
+      Data: 50
+    - Name: Reward_Value
+      Entry: 1
+      Data: Item_1
+    - Name: Reward_Count
+      Entry: 3
+      Data: 400
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Reward_5
+    - Name: $v
+      Entry: 7
+      Data: 7|Reward_CHData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Reward_5
+    - Name: Min_Wave
+      Entry: 3
+      Data: 51
+    - Name: Max_Wave
+      Entry: 3
+      Data: 60
+    - Name: Reward_Value
+      Entry: 1
+      Data: Item_1
+    - Name: Reward_Count
+      Entry: 3
+      Data: 500
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Reward_6
+    - Name: $v
+      Entry: 7
+      Data: 8|Reward_CHData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Reward_6
+    - Name: Min_Wave
+      Entry: 3
+      Data: 61
+    - Name: Max_Wave
+      Entry: 3
+      Data: 70
+    - Name: Reward_Value
+      Entry: 1
+      Data: Item_1
+    - Name: Reward_Count
+      Entry: 3
+      Data: 600
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Reward_7
+    - Name: $v
+      Entry: 7
+      Data: 9|Reward_CHData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Reward_7
+    - Name: Min_Wave
+      Entry: 3
+      Data: 71
+    - Name: Max_Wave
+      Entry: 3
+      Data: 80
+    - Name: Reward_Value
+      Entry: 1
+      Data: Item_1
+    - Name: Reward_Count
+      Entry: 3
+      Data: 700
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Reward_8
+    - Name: $v
+      Entry: 7
+      Data: 10|Reward_CHData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Reward_8
+    - Name: Min_Wave
+      Entry: 3
+      Data: 81
+    - Name: Max_Wave
+      Entry: 3
+      Data: 90
+    - Name: Reward_Value
+      Entry: 1
+      Data: Item_1
+    - Name: Reward_Count
+      Entry: 3
+      Data: 750
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Reward_9
+    - Name: $v
+      Entry: 7
+      Data: 11|Reward_CHData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Reward_9
+    - Name: Min_Wave
+      Entry: 3
+      Data: 91
+    - Name: Max_Wave
+      Entry: 3
+      Data: 100
+    - Name: Reward_Value
+      Entry: 1
+      Data: Item_1
+    - Name: Reward_Count
+      Entry: 3
+      Data: 800
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Reward_10
+    - Name: $v
+      Entry: 7
+      Data: 12|Reward_CHData, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: Reward_10
+    - Name: Min_Wave
+      Entry: 3
+      Data: 101
+    - Name: Max_Wave
+      Entry: 3
+      Data: 110
+    - Name: Reward_Value
+      Entry: 1
+      Data: Item_1
+    - Name: Reward_Count
+      Entry: 3
+      Data: 850
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  dataArr:
+  - Key: Reward_0
+    Min_Wave: 1
+    Max_Wave: 10
+    Reward_Value: Item_1
+    Reward_Count: 150
+  - Key: Reward_1
+    Min_Wave: 11
+    Max_Wave: 20
+    Reward_Value: Item_1
+    Reward_Count: 200
+  - Key: Reward_2
+    Min_Wave: 21
+    Max_Wave: 30
+    Reward_Value: Item_1
+    Reward_Count: 250
+  - Key: Reward_3
+    Min_Wave: 31
+    Max_Wave: 40
+    Reward_Value: Item_1
+    Reward_Count: 300
+  - Key: Reward_4
+    Min_Wave: 41
+    Max_Wave: 50
+    Reward_Value: Item_1
+    Reward_Count: 400
+  - Key: Reward_5
+    Min_Wave: 51
+    Max_Wave: 60
+    Reward_Value: Item_1
+    Reward_Count: 500
+  - Key: Reward_6
+    Min_Wave: 61
+    Max_Wave: 70
+    Reward_Value: Item_1
+    Reward_Count: 600
+  - Key: Reward_7
+    Min_Wave: 71
+    Max_Wave: 80
+    Reward_Value: Item_1
+    Reward_Count: 700
+  - Key: Reward_8
+    Min_Wave: 81
+    Max_Wave: 90
+    Reward_Value: Item_1
+    Reward_Count: 750
+  - Key: Reward_9
+    Min_Wave: 91
+    Max_Wave: 100
+    Reward_Value: Item_1
+    Reward_Count: 800
+  - Key: Reward_10
+    Min_Wave: 101
+    Max_Wave: 110
+    Reward_Value: Item_1
+    Reward_Count: 850
+  keyArr:
+  - Reward_0
+  - Reward_1
+  - Reward_2
+  - Reward_3
+  - Reward_4
+  - Reward_5
+  - Reward_6
+  - Reward_7
+  - Reward_8
+  - Reward_9
+  - Reward_10
